@@ -115,8 +115,9 @@ const games = [
       },
   ];
   
-  games.forEach(game => {
-    const gameCard = `
+let gameCards = "";
+games.forEach(game => {
+    gameCards += `
       <div class="col-md-4 my-3">
         <div class="card custom-card shadow-sm h-100">
           <div class="card-body d-flex flex-column">
@@ -129,12 +130,6 @@ const games = [
           </div>
         </div>
       </div>`;
-    document.getElementById("game-list").innerHTML += gameCard;
-  });
-  
-          </div>
-        </div>
-      </div>`;
-    document.getElementById("game-list").innerHTML += gameCard;
-  });
+});
+document.getElementById("game-list").innerHTML = gameCards;
   
