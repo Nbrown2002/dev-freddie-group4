@@ -1,0 +1,49 @@
+#game-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .custom-card {
+    border: 5px solid #e3e3e3;
+    border-radius: 18px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  }
+  
+  .custom-card .card-title {
+    font-size: 1.25rem;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .custom-card .card-text {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .custom-card .btn {
+    margin-right: 8px;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
+  
+  .custom-card .btn-primary {
+    border-color: #007bff;
+  }
+  
+  .custom-card .btn-outline-primary {
+    color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .custom-card .btn:hover {
+    opacity: 0.9;
+  }
+  
