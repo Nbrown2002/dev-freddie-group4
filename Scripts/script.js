@@ -1,9 +1,9 @@
 const games = [
     { 
-      author: "Jodi",
-      repoLink: "https://github.com/jomlli709/jomlli709",
-      gameLink: "https://jomlli709.github.io/octo-goggles-david-hw/",
-      gameTitle: "Circle Game"
+        author: "Jodi",
+        repoLink: "https://github.com/jomlli709/jomlli709",
+        gameLink: "https://jomlli709.github.io/octo-goggles-david-hw/",
+        gameTitle: "Circle Game"
     },
     { 
         author: "Noah",
@@ -40,6 +40,78 @@ const games = [
         repoLink: "https://github.com/iarcher444/dev-david-lab",
         gameLink: "https://jaxn-harvey.github.io/dev-david/",
         gameTitle: "Catch the Butterfly"
+      },
+      { 
+        author: "Milly",
+        repoLink: "https://github.com/mtrejo03/dev-david-hw",
+        gameLink: "https://mtrejo03.github.io/dev-david-hw/",
+        gameTitle: "The Emoji Game"
+      },
+      { 
+        author: "Janet",
+        repoLink: "https://github.com/jm-2017/urban-carnival-nuExample",
+        gameLink: "https://jm-2017.github.io/urban-carnival-nuExample/",
+        gameTitle: "Futbol Maniaaaa!"
+      },
+      { 
+        author: "Sean",
+        repoLink: "https://github.com/basstbone/dev-david-hw",
+        gameLink: "https://basstbone.github.io/dev-david-hw/",
+        gameTitle: "Slides"
+      },
+      { 
+        author: "Mason",
+        repoLink: "https://github.com/MLSMason6/improved-computing-machine-colorName",
+        gameLink: "https://mlsmason6.github.io/improved-computing-machine-colorName/",
+        gameTitle: "ColorName"
+      },
+      { 
+        author: "Joshua",
+        repoLink: "https://github.com/joshuabrad03/scaling-octo-david",
+        gameLink: "https://joshuabrad03.github.io/scaling-octo-david/",
+        gameTitle: "Escape Room"
+      },
+      { 
+        author: "Evan",
+        repoLink: "https://github.com/mrspartan38/dev-david-hw",
+        gameLink: "https://mrspartan38.github.io/dev-david-hw/",
+        gameTitle: "Meh Game"
+      },
+      { 
+        author: "Kethan",
+        repoLink: "https://github.com/KethanPilla/dev-freddie-hw",
+        gameLink: "https://kethanpilla.github.io/dev-freddie-hw/",
+        gameTitle: "Rock-Paper-Scissors"
+      },
+      { 
+        author: "Paridhi",
+        repoLink: "https://github.com/pmalhotra21/wow-game",
+        gameLink: "https://pmalhotra21.github.io/wow-game/",
+        gameTitle: "Wow Game"
+      },
+      { 
+        author: "Allison",
+        repoLink: "https://github.com/AllisonLacy/alligamerepo",
+        gameLink: "https://allisonlacy.github.io/alligamerepo/",
+        gameTitle: "Square Game"
+      },
+      { 
+        author: "Alex",
+        repoLink: "https://github.com/a-nunley/dev-david",
+        gameLink: "https://a-nunley.github.io/dev-david/",
+        gameTitle: "Spongebob vs Doodlebob"
+      },
+      { 
+        author: "Nick",
+        repoLink: "https://github.com/germannnick/Dev-David-Goliath",
+        gameLink: "https://germannnick.github.io/Dev-David-Goliath/",
+        gameTitle: "David V Goliath"
+      },
+      { 
+        author: "Tuesday",
+        repoLink: "https://github.com/TuesdayAnnB/miniature-enigma-david",
+        gameLink: "https://tuesdayannb.github.io/miniature-enigma-david/",
+        gameTitle: "Find the Surprise!"
       },
   ];
   
