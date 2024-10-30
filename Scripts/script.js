@@ -23,6 +23,24 @@ const games = [
         gameLink: "https://ssasaki1.github.io/dev-david-lab/",
         gameTitle: "Battery Charger Game"
       },
+      { 
+        author: "Bailee",
+        repoLink: "https://github.com/baileestrait/dev-david-lab",
+        gameLink: "https://baileestrait.github.io/dev-david-lab/",
+        gameTitle: "Escape the Garden"
+      },
+      { 
+        author: "Jackson",
+        repoLink: "https://github.com/jaxn-harvey/dev-david",
+        gameLink: "https://iarcher444.github.io/dev-david-lab/",
+        gameTitle: "Vroom"
+      },
+      { 
+        author: "Isabella",
+        repoLink: "https://github.com/iarcher444/dev-david-lab",
+        gameLink: "https://jaxn-harvey.github.io/dev-david/",
+        gameTitle: "Catch the Butterfly"
+      },
   ];
   
   games.forEach(game => {
@@ -36,6 +54,12 @@ const games = [
               <a href="${game.repoLink}" class="btn btn-outline-primary btn-sm" target="_blank">Repository</a>
               <a href="${game.gameLink}" class="btn btn-primary btn-sm" target="_blank">Play Game</a>
             </div>
+          </div>
+        </div>
+      </div>`;
+    document.getElementById("game-list").innerHTML += gameCard;
+  });
+  
           </div>
         </div>
       </div>`;
