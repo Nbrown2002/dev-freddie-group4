@@ -7,4 +7,4 @@
 - That dynamically creates the front end html "view"
 - read and loaded a js data object {}
 - to list one game from everyone in the class. 
-- and havce fun!
+- and have fun!
