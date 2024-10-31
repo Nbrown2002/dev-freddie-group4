@@ -113,6 +113,12 @@ const games = [
         gameLink: "https://tuesdayannb.github.io/miniature-enigma-david/",
         gameTitle: "Find the Surprise!"
       },
+      { 
+        author: "Jonathan",
+        repoLink: "https://github.com/Jonathan-Hall34/scaling-pancake-dev-david-game",
+        gameLink: "https://jonathan-hall34.github.io/scaling-pancake-dev-david-game/",
+        gameTitle: "Wow Game!"
+      },
   ];
   
 let gameCards = "";
